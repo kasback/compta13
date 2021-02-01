@@ -17,9 +17,7 @@
         "data/account.account.template.csv",
         "data/account.tax.template.csv",
         'data/account_chart_data_final.xml',
-        'data/account_journal_data.xml',
         'data/account_chart_template_data.xml',
-        'security/account_tres_security.xml'
     ],
     'installable': True,
     'auto_install': False,

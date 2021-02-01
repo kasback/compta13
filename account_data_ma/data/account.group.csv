@@ -55,7 +55,7 @@ account.data_account_group_345,345,Etat - débiteur
 account.data_account_group_346,346,Comptes d'associés - débiteurs
 account.data_account_group_348,348,Autres débiteurs
 account.data_account_group_349,349,Comptes de régularisation - actif
-account.data_account_group_350,350,Titres et valeurs de placement
+account.data_account_group_350,350,TO fill 350
 account.data_account_group_370,370,Ecart de conversion - actif (Elements circulants)
 account.data_account_group_391,391,Provisions pour dépréciation des stocks
 account.data_account_group_394,394,Provisions pour dépréciation des créances de l'actif circulant
@@ -109,8 +109,8 @@ account.data_account_group_751,751,Produits des cessions d’immobilisations
 account.data_account_group_756,756,Subventions d’équilibre
 account.data_account_group_757,757,Reprise sur subventions d’investissements
 account.data_account_group_758,758,Autres produits non courants
-account.data_account_group_759,759,REPRISE NON COURANTE TRANSFERT DE CHARGE
-account.data_account_group_810,810,RESULTAT D'EXPLOITATION
-account.data_account_group_811,811,MARGE BRUTE
-account.data_account_group_814,814,VALEUR AJOUTEE
-account.data_account_group_817,817,EXCEDENT BRUT D'EXPLOITAT
+account.data_account_group_759,759,REPRISE NON COURANTE TRANSFERT DE CHARGE     
+account.data_account_group_810,810,RESULTAT D'EXPLOITATION       
+account.data_account_group_811,811,MARGE BRUTE                   
+account.data_account_group_814,814,VALEUR AJOUTEE                
+account.data_account_group_817,817,EXCEDENT BRUT D'EXPLOITAT     

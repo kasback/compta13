@@ -15,6 +15,7 @@
         <field name="bank_account_code_prefix">5141</field>
         <field name="cash_account_code_prefix">5161</field>
         <field name="transfer_account_code_prefix">5115</field>
+        <!--<field name="transfer_account_id" ref="pcg_51150000"/>-->
     </record>
 
 
