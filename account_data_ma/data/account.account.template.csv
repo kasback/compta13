@@ -18,7 +18,6 @@
 "11810000","pcg_11810000","account.data_account_group_118","Résultats nets en instance d'affectation (solde créditeur)","account.data_account_type_equity","FAUX","l10n_ma_temp_chart"
 "11890000","pcg_11890000","account.data_account_group_118","Résultats nets en instance d'affectation (solde débiteur)","account.data_account_type_equity","FAUX","l10n_ma_temp_chart"
 "11910000","pcg_11910000","account.data_account_group_119","Résultat net de l'exercice (solde créditeur)","account.data_unaffected_earnings","FAUX","l10n_ma_temp_chart"
-"11990000","pcg_11990000","account.data_account_group_119","Résultat net de l'exercice (solde débiteur)","account.data_unaffected_earnings","FAUX","l10n_ma_temp_chart"
 "13110000","pcg_13110000","account.data_account_group_131","Subventions d'investissement reçues","account.data_account_type_non_current_liabilities","FAUX","l10n_ma_temp_chart"
 "13190000","pcg_13190000","account.data_account_group_131","Subventions d'investissement inscrites au CPC","account.data_account_type_non_current_liabilities","FAUX","l10n_ma_temp_chart"
 "13510000","pcg_13510000","account.data_account_group_135","Provisions pour amortissements dérogatoires","account.data_account_type_non_current_liabilities","FAUX","l10n_ma_temp_chart"
